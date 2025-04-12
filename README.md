@@ -2,6 +2,14 @@
 
 `sesh` is a minimal CLI tool to declaratively launch tmux sessions from a YAML spec.
 
+## Install
+
+```sh
+go install github.com/ludvighe/sesh@latest
+```
+
+_By default this will install `sesh` at '$HOME/go/bin'._
+
 ## Example YAML specification
 
 ```yaml
