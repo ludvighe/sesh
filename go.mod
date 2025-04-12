@@ -1,4 +1,4 @@
-module sesh
+module github.com/ludvighe/sesh
 
 go 1.24.2
 
